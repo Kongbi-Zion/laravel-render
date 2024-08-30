@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Crowdfunding application</title>
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        {{-- <script src="https://cdn.tailwindcss.com"></script> --}}
     </head>
     <body>
         <div class="overflow-hidden">
